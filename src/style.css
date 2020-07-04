@@ -1,0 +1,12 @@
+body{
+    padding: 2rem;
+    background-color: silver;
+    font-family: fantasy;
+    color: whitesmoke;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    font-size: 4em;
+    text-align: center;
+    color: whitesmoke;
+}
